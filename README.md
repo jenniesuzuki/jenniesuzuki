@@ -1,6 +1,5 @@
 <h1 align="center">Bem-vindo ao meu perfil! Eu sou a Jennifer!</h1>
-
-📍 São Bernardo do Campo, SP | ✉️ jenniferkaorisuzuki@gmail.com  
+<h2 align="center">📍 São Bernardo do Campo, SP | ✉️ jenniferkaorisuzuki@gmail.com </h2>
 
 ###
 
@@ -23,8 +22,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=oracle" height="60" alt="oracle logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
 </div>
 
@@ -45,6 +42,7 @@
 
 ###
 
-### 📫 Contato
+###
+<h2 align="center"> 📫 Contato </h2>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jennifer-kaori-suzuki)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jenniferkaorisuzuki@gmail.com)
